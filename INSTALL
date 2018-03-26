@@ -1,0 +1,9 @@
+Building Spcoin
+
+See doc/readme-qt.rst for instructions on building Spcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Spcoin.
+
+See doc/build-*.txt for instructions on building spcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Spcoin.
